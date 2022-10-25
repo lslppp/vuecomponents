@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'cardComponentsUI'
+    title: 'cardComponentsUI',
     base: '/vuecomponents/',
     themeConfig: {
       nav: [{
